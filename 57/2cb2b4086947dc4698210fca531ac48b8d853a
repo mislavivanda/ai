@@ -1,0 +1,23 @@
+docs/code-mode/code-mode-isolates.md
+  s_803e217bd89a6c::t_5700405c5b7377 243-250
+.changeset/ai-isolate-daytona-pin-sdk-0x.md
+  s_803e217bd89a6c::t_96580367cfae41 1-5
+packages/ai-isolate-daytona/README.md
+  s_803e217bd89a6c::t_f1c0cbc0bb7554 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "572cb2b4086947dc4698210fca531ac48b8d853a",
+  "prompts": {},
+  "sessions": {
+    "s_803e217bd89a6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "unknown"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
